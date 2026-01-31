@@ -5,21 +5,26 @@
 A full-stack real-time chat application that enables users to communicate instantly with each other. The platform features user authentication, real-time messaging using Socket.IO, profile management with image uploads, online user status, and a modern, responsive user interface. Built with the MERN stack and deployed on Render and Netlify.
 
 ## Table of Contents
-* **About the Project**
-  * **Features**
-  * **Screenshots**
-  * **Demo**
-  * **Live Demo**
-  * **Tech Stack**
-* **Getting Started**
-  * **Prerequisites**
-  * **Installation**
-    * **Clone Project**
-    * **Backend Setup**
-    * **Frontend Setup**
-  * **Configuration**
-* **Usage**
-* **Contact**
+- [About the Project](#about-the-project)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Demo](#demo)
+  - [Live Demo](#live-demo)
+  - [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+    - [Clone Project](#clone-project)
+    - [Backend Setup](#backend-setup)
+    - [Frontend Setup](#frontend-setup)
+  - [Configuration](#configuration)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [API Endpoints](#api-endpoints)
+- [Project Structure](#project-structure)
+- [Future Enhancements](#future-enhancements)
+- [Troubleshooting](#troubleshooting)
+- [Contact](#contact)
 
 ## About the Project
 
